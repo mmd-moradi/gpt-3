@@ -1,4 +1,6 @@
 # gpt-3
+![gpt-3-final](https://github.com/mmd-moradi/gpt-3/assets/110211422/d0b40ff7-d1bd-4a83-ae68-d81dcd8eed8c)
+------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
